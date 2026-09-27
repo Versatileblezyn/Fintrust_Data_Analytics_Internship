@@ -1,4 +1,4 @@
-# FinTrust Week 2 – Data Analytics
+# FinTrust Week 2 - Data Analytics
 
 ## Overview
 
