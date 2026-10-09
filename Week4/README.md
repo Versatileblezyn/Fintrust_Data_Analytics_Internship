@@ -25,7 +25,7 @@ The analysis covers synthetic customer and transaction data from 1 January to 31
 - Final Python analysis notebook
 - Final Power BI dashboard
 - Final project report and documentation
-- Final presentation with speaker notes
+- Final presentation
 
 ## Important Limitations
 The dataset is synthetic and represents a fictional bank. The Risk_Review_Flag is an educational review indicator, not a confirmed fraud label. Findings should not be treated as production banking conclusions.
